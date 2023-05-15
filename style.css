@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600;700&display=swap');
 
 body {
-  background-image: url('/static/clouds .jpeg');
+  background-image: url('/static/clouds.jpeg');
   background-size: cover;
   background-position: center;
   color: rgba(102, 17, 45, 0.724);
